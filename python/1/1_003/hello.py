@@ -1,0 +1,6 @@
+print(1+1)
+print("배동민")
+print("30살")
+print("sksskdua1234@naver.com")
+print("서울시","구로구")
+print("운동")
