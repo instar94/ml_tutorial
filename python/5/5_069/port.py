@@ -16,3 +16,5 @@ for i in range(1, 366):
         print("formatted:", formatted)
         with open(url, "a") as f:
             f.write(f"{formatted}\n")
+
+            
