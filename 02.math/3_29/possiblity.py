@@ -28,4 +28,4 @@ event2= probability()
 print(f"event2 : {event2}")
 
 prob = round(((event1 * event2) /sample)*100,2)
-print(f"확률 : {prob}%")
+print(f"확률 : {prob}% ")
