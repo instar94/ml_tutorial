@@ -15,6 +15,3 @@ chars=["c","x","Q","A","e","P","p"]
 mc = MinClass(chars)
 maxChar=mc.getMaxChar()
 print(f"maxChar : {maxChar}")
-
-
-
