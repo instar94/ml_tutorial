@@ -1,8 +1,4 @@
 -- 테이블 생성 : 컬럼명 + 데이터 타입
-CREATE TABLE mytable(
-    id INT,
-    name VARCHAR(16)
-);
 
 -- 테이블 조회
 SHOW TABLES;
