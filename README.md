@@ -74,7 +74,7 @@
 ## 🔗 Contact & Links
 
 - 📫 Email: stright94@gmail.com
-- 🐙 GitHub: [github.com/your-username](https://github.com/instart94)
+- 🐙 GitHub: [github.com/instar94](https://github.com/instart94)
 - 📄 [기술 이력서 / 문서 모음 (Google Drive)](https://drive.google.com/drive/folders/1uRb_CLVlBMJGcwN1TtDWB0OdUBk70la)
 
 ---
