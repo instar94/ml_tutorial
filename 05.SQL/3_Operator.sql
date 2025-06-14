@@ -106,8 +106,8 @@ where (not sex = "M" and agency = "AAA")
 -- 생년이 2003년 이전 이면서 소속사가 Glow가 아님
 select *
 from celeb
-where (brithday > 20041231 and sex = "F")
-   OR (not agency = "AAA" and brithday < 20021231)
+where (birthday > 20041231 and sex = "F")
+   OR (not agency = "AAA" and birthday < 20021231)
 order by age;
 
 -- between : 범위 안에 있으면 TRUE
@@ -120,7 +120,7 @@ order by age desc;
 -- 혹은 AAA 소속이면서 17세 20세 사이
 select *
 from celeb
-where not brithday between 20040101 and 20101231
+where not birthday between 20040101 and 20101231
   and sex = "F";
 select *
 from celeb
@@ -129,7 +129,7 @@ where agency = "AAA"
 
 select *
 from celeb
-where (not brithday between 20040101 and 20101231 and sex = "F")
+where (not birthday between 20040101 and 20101231 and sex = "F")
    OR (agency = "AAA" and age between 17 and 20)
 order by age, id;
 

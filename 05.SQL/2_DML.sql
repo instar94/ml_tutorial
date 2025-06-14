@@ -47,7 +47,7 @@ select * from person;
 create table celeb (
                        ID int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
                        NAME varchar(32) NOT NULL DEFAULT "" ,
-                       BRITHDAY date,
+                       birthday date,
                        AGE int,
                        SEX char(1),
                        JOB_TITLE varchar(32),
