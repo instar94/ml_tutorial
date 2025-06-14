@@ -179,3 +179,5 @@ from celeb;
 
 -- LINIT :
 select * from celeb linit 3;
+
+--
