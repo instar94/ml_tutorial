@@ -1,2 +1,2 @@
-1. Hello Github Page
+1. Hello GitHub Page
 2. Hello Python
